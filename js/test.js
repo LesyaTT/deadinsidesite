@@ -100,7 +100,6 @@ const results =
    new Result("Да вы самый дед инсайдный дед инсайд из всех дед инсайдов мира, готова оплатить психиатра.", 16)
 ];
  
-//Массив с вопросами
 const questions =
 [
    new Question("Играете ли вы в доту?",
@@ -194,6 +193,5 @@ const questions =
    ])
 ];
  
-//Сам тест
 const test = new test(questions, results);
 
